@@ -353,6 +353,12 @@ i {
   font-size: 0.98rem;
 }
 
+@media only screen and (max-width:403px) {
+  .work .row .score-3 {
+    margin-top: -7.5rem;
+  }
+}
+
 /* work end */
 
 /* testimonial start */
